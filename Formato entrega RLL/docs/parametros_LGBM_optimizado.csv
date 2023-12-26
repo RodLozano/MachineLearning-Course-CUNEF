@@ -1,0 +1,20 @@
+Parámetro,Valor
+subsample_freq,5
+subsample_for_bin,300000
+subsample,0.8
+reg_lambda,0.1
+reg_alpha,0.1
+random_state,42
+objective,binary
+num_leaves,100
+n_jobs,-1
+n_estimators,200
+min_split_gain,0.0
+min_child_weight,0.001
+min_child_samples,20
+max_depth,20
+learning_rate,0.2
+importance_type,split
+colsample_bytree,0.8
+class_weight,"{0: 1, 1: 2}"
+boosting_type,dart

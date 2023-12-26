@@ -1,0 +1,11 @@
+Parámetro,Valor
+reg_lambda,1.5
+reg_alpha,1.75
+random_state,42
+num_leaves,48
+n_jobs,-1
+n_estimators,200
+max_depth,20
+learning_rate,0.07625000000000001
+importance_type,split
+boosting_type,gbdt
